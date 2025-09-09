@@ -52,12 +52,8 @@ This dual perspective gives me deep insight into how to **build stronger protect
 
 ---
 
-## 🔐 Cybersecurity & Pen Testing
-- Currently studying **penetration testing** and general **cybersecurity fundamentals**.  
-- I plan to focus on core concepts such as:
-  - Reconnaissance & enumeration  
-  - Vulnerability analysis  
-  - Exploit basics & mitigation strategies  
+## 🔐 Cybersecurity
+- Currently studying penetration testing, defensive security, and security engineering/architecture, with a focus on both offensive and defensive approaches.
 - Goal: apply my knowledge to **broader cybersecurity fields**.  
 
 ---
