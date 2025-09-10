@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Phobia
 
-I’m a **Game Developer** specializing in **scripting**, **UI design**, and **game security research**.  
+I’m a **Game Developer** specializing in **scripting**, **UI design**, and **game security**.  
 Since **2019**, I’ve been building systems, interfaces, and scalable frameworks for Roblox experiences, with a strong focus on **performance, exploit prevention, and secure game design**.  
 
 ---
@@ -33,7 +33,6 @@ This dual perspective gives me deep insight into how to **build stronger protect
 ### 🎯 [Phobia’s South Bronx Aim Trainer](https://www.roblox.com/games/109213462978206/NEW-Phobias-South-Bronx-Aim-Trainer)  
 *(Aug 2025 – Present)*  
 - Originally created as a side project. Despite having one of the **highest development budgets**, being among the **most secure**, and ranking as one of the **most advanced aim trainers in the industry**, the project remained inactive for long periods.  
-- As of **September 2025**, it has generated **10K+ Robux**, along with an additional **$500 CAD in cosmetic sales** (separate from the Robux revenue).  
 - Built fast, scalable UI and optimized gameplay systems.  
 
 ---
