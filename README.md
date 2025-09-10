@@ -6,7 +6,7 @@ Since **2019**, I’ve been building systems, interfaces, and scalable framework
 ---
 
 ## 🛠️ Skills
-- **Roblox Lua Scripting** (combat systems, data stores, anti-cheat, gameplay mechanics)  
+- **Roblox Lua Scripting**
 - **UI/UX Design** (functional, clean, and immersive Roblox interfaces)  
 - **Game Security & Protection**
   - Remote security & validation  
