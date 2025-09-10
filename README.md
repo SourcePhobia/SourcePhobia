@@ -39,7 +39,7 @@ This dual perspective gives me deep insight into how to **build stronger protect
 
 ### 🏢 [Atom Corporation](https://www.roblox.com/communities/33489890/Atom-Corporation#!/about)  
 - Fixed critical bugs and improved overall security.  
-- Identified and neutralized a backdoor exploit, preventing major game disruption.
+- Identified and neutralized multiple backdoor exploits, preventing major game disruption.
 
 ---
 
