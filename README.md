@@ -37,6 +37,12 @@ This dual perspective gives me deep insight into how to **build stronger protect
 
 ---
 
+### 🏢 [Atom Corporation](https://www.roblox.com/communities/33489890/Atom-Corporation#!/about)  
+- Fixed critical bugs and improved overall security.  
+- Identified and neutralized a backdoor exploit, preventing major game disruption.
+
+---
+
 ### 🌎 [San Ramiro County: California V2](https://www.roblox.com/games/9292081874/LIVE-SRC-San-Ramiro-County-California-V2)  
 - Contributed scripting/UI to enhance roleplay features and improve accessibility.  
 
