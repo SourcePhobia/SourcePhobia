@@ -13,7 +13,7 @@ Since **2019**, I’ve been building systems, interfaces, and scalable framework
   - Anti-crash methods and exploit resistance  
   - Secure client/server communication  
 
-I also have experience on the **exploit development side**, having created tools like the **phobia.ml crash panel** (multi-crash method panel).  
+I also have experience on the **exploit development side**, having created tools like the **phobia.ml crash panel** (multi-crash method panel) as well as Dolphin Serverside.  
 This dual perspective gives me deep insight into how to **build stronger protections and countermeasures** for Roblox games.
 
 ---
