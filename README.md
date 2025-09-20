@@ -7,7 +7,7 @@ Since **2019**, I’ve been building systems, interfaces, and scalable framework
 
 ## 🛠️ Skills
 - **Roblox Lua Scripting**
-- **UI/UX Design** (functional, clean, and immersive Roblox interfaces)  
+- **UI/UX Design** (functional, clean, and immersive interfaces)  
 - **Game Security & Protection**
   - Remote security & validation  
   - Anti-crash methods and exploit resistance  
