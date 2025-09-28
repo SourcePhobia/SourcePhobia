@@ -23,7 +23,6 @@ This dual perspective gives me deep insight into how to **build stronger protect
 ### ⚔️ [South Bronx Duels](https://www.roblox.com/games/131723649852317/BACK-South-Bronx-Duels)  
 *(May 2025 – Present)*  
 - My **biggest and most impactful project**.
-- Brought in **2M+ Robux** and **5M+ visits**, with an additional **$4,000+ CAD** in cosmetic sales via PayPal and CashApp. 
 - Peaked at **2.1k concurrent players**. 
 - Developed core systems, UI, and security frameworks.
 - Game became a centerpiece in its genre with a highly competitive player base.
