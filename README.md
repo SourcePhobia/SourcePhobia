@@ -69,7 +69,6 @@ This dual perspective gives me deep insight into how to **build stronger protect
 ---
 
 ## 📫 Get in Touch
-- **Email:** phobia.source@gmail.com
 - **Discord:** iiphobia
 
 ---
