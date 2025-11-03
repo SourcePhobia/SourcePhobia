@@ -69,7 +69,7 @@ This dual perspective gives me deep insight into how to **build stronger protect
 ---
 
 ## 📫 Get in Touch
-- **Discord:** iiphobia
+- **Discord:** vlm4e
 
 ---
 ⭐ Passionate about building secure, scalable, and fun Roblox experiences — while expanding my knowledge in **cybersecurity**.
