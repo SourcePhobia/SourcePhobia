@@ -21,7 +21,7 @@ This dual perspective gives me deep insight into how to **build stronger protect
 ## 🚀 Notable Projects
 
 ### ⚔️ [South Bronx Duels](https://www.roblox.com/games/131723649852317/BACK-South-Bronx-Duels)  
-*(May 2025 – Present)*  
+*(May 2025 – November 2025)*  
 - My **biggest and most impactful project**.
 - Peaked at **2.1k concurrent players**. 
 - Developed core systems, UI, and security frameworks.
