@@ -70,4 +70,4 @@ This dual perspective gives me deep insight into how to build stronger protectio
 - **Discord:** vlm4e
 
 ---
-⭐ Passionate about building secure, scalable, and fun Roblox experiences — while expanding my knowledge in cybersecurity.
+⭐ Passionate about building secure, scalable, and fun Roblox experiences
