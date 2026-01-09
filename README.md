@@ -23,6 +23,7 @@ This dual perspective gives me deep insight into how to build stronger protectio
 ### ⚔️ [Tha Bronx: Duels](https://www.roblox.com/games/99362936871032/Tha-Bronx-Duels)  
 *(November 2025 – Present)*  
 - Owned by me
+- 1k+ active
 - Highly active
 
 ### ⚔️ [South Bronx Duels](https://www.roblox.com/games/131723649852317/BACK-South-Bronx-Duels)  
